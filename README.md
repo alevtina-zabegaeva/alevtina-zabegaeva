@@ -1,9 +1,8 @@
 - Hi, I’m Alevtina
 
 - I've a master's degree in Mechanics.
-- I'm a Stress Engineer, but currently retraining for a Data Scientist.
-- I'm programming in Python.
-- I’m currently learning R.
+- Previously I've worked as a Stress Engineer, but now retrained to a Data Scientist.
+- I'm programming in Python and R.
 
 <!---
 alevtina-zabegaeva/alevtina-zabegaeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
